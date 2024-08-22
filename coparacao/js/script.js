@@ -44,5 +44,9 @@ const h = "1"; // converte isso para inteiros
 
  console.log(x)
  console.log(y)
+ console.log(z)
+
+
+ 
 
 
